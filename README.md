@@ -1,32 +1,14 @@
-<h1 align="center">Mohammadkaif Pathan</h1>
-<p align="center">
-  Full Stack Developer | ML & IoT Enthusiast | Software Developer Intern at Tata Motors
-</p>
+<h1 align="center">Hey, I'm Kaif 👨‍💻</h1>
+<p align="center">Software Developer • Full Stack Engineer • ML & IoT Explorer</p>
 
 ---
 
-I'm a software developer with a strong interest in building scalable web applications and intelligent systems that solve real-world problems.
+I’m a developer who loves to build clean, scalable systems — whether it’s a full-stack web app, a real-time dashboard, or a predictive ML model powered by sensor data.
 
-Currently interning at Tata Motors, I’m working on integrating machine learning models with real-time IIoT data for predictive maintenance. I bring a blend of frontend/backend development, data-driven thinking, and clean, reliable coding practices to every project.
-
----
-
-### 💼 Core Areas of Work
-
-- **Full Stack Development** — React.js, Node.js, Express.js, Spring Boot
-- **Machine Learning Integration** — XGBoost, LSTM, real-time inference with Flask
-- **IoT Systems** — Processing sensor data for predictive analytics
-- **Software Quality & Security** — Manual/automated testing, ethical hacking fundamentals
-
----
-
-### 🔍 Selected Projects
-
-- **Smart Contact Manager** — Role-based contact app built with Spring Boot & MS SQL  
-- **Dark Pattern Identifier** — Detects deceptive UI with BERT and Selenium  
-- **Job Portal** — Full-stack job listing platform with JWT authentication
-
-Explore more at [github.com/Kaif-Git28](https://github.com/Kaif-Git28)
+My interests live at the intersection of:
+- Frontend + Backend systems
+- Data + Intelligence
+- Clean code + Good architecture
 
 ---
 
@@ -39,12 +21,9 @@ Explore more at [github.com/Kaif-Git28](https://github.com/Kaif-Git28)
 - **ML & Data**: Scikit-learn, Pandas, Flask APIs  
 - **Security**: JWT, OAuth2.0, SQLi Testing
 
----
 
 ### 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/mohammadkaif-pathan-abb880261/)
 - [GitHub](https://github.com/Kaif-Git28)
 - Email: mkaif.pathan28@gmail.com
-
----
