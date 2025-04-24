@@ -48,7 +48,3 @@ Explore more at [github.com/Kaif-Git28](https://github.com/Kaif-Git28)
 - Email: mkaif.pathan28@gmail.com
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaif-Git28&show_icons=true&theme=default" />
-</p>
