@@ -148,28 +148,18 @@ I approach every project with a focus on clean architecture, code quality, and f
 </div>
 </details>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaif-Git28&show_icons=true&theme=tokyonight" alt="Kaif's GitHub stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaif-Git28&theme=tokyonight" alt="Kaif's GitHub streak" />
-</div>
-
 ## 🚀 Featured Projects
 
 <div align="center">
 
 <!-- Project 1 -->
-<a href="https://github.com/Kaif-Git28">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaif-Git28&repo=YourRepoName1&theme=tokyonight" />
+<a href="https://github.com/Kaif-Git28/Dark_Pattern">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaif-Git28&repo=Dark_Pattern&theme=tokyonight" />
 </a>
 
 <!-- Project 2 -->
-<a href="https://github.com/Kaif-Git28">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaif-Git28&repo=YourRepoName2&theme=tokyonight" />
+<a href="https://github.com/Kaif-Git28/Smart-Contact-Manager">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaif-Git28&repo=Smart-Contact-Manager&theme=tokyonight" />
 </a>
 
 </div>
