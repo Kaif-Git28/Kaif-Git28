@@ -171,14 +171,6 @@ I approach every project with a focus on clean architecture, code quality, and f
 - **Diploma in Electronics & Communication** - Government Polytechnic Pune (2019-2022)
   - Relevant coursework: Digital Systems, IOT, Computer Architecture
 
-## 📫 Let's Connect
-
-I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/mohammadkaif-pathan-abb880261/)
-- 🌐 [GitHub](https://github.com/Kaif-Git28)
-- 📧 Email: mkaif.pathan28@gmail.com
-
 ---
 
 <div align="center">
