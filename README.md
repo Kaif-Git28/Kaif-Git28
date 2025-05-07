@@ -176,8 +176,10 @@ I approach every project with a focus on clean architecture, code quality, and f
 
 ## 🎓 Education
 
-- **Bachelor's in Computer Science** - Your University Name (20XX-20XX)
+- **B.Tech in Electronics & Communication** - Vishwakarma Institute Of Technology (2022-2025)
   - Relevant coursework: Data Structures, Algorithms, Database Management, Software Engineering
+- **Diploma in Electronics & Communication** - Government Polytechnic Pune (2019-2022)
+  - Relevant coursework: Digital Systems, IOT, Computer Architecture
 
 ## 📫 Let's Connect
 
