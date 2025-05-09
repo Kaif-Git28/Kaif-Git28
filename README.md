@@ -17,7 +17,7 @@ I'm a **Full Stack Developer** with a strong foundation in both front-end and ba
 - 🤖 **Machine Learning** - Building intelligent systems that learn and adapt
 - 📱 **IoT Solutions** - Connecting devices for smarter environments
 
-I approach every project with a focus on clean architecture, code quality, and future maintainability
+I approach every project with a focus on clean architecture, code quality, and future maintainability.
 
 ## 🛠️ Technical Skills
 
