@@ -8,7 +8,7 @@
 
 </div>
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me - 
 
 I'm a **Full Stack Developer** with a strong foundation in both front-end and back-end technologies. I specialize in building clean, scalable systems that integrate seamlessly across the tech stack. My passion lies at the intersection of:
 
